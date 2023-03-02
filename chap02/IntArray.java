@@ -5,7 +5,7 @@ public class IntArray {
     public static void main(String[] args) {
         int[] a = new int[5];
 
-        int answer = 1;
+        int answer = 2;
 
         System.out.println(hello(answer));
 
