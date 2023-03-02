@@ -13,7 +13,7 @@ public class IntArray {
 
 
     public static String hello(int answer){
-
+        answer = 2;
         return "hello"+answer;
     }
 }
